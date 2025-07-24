@@ -3,7 +3,7 @@
 const CONFIG = {
     // Brevo API Configuration
     brevo: {
-        apiKey: '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',
+        apiKey: 'xkeysib-...........',
         apiUrl: 'https://api.brevo.com/v3/contacts',
         listId: 2, // Update this with your actual Brevo list ID
         defaultAttributes: {

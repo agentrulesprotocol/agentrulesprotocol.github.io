@@ -5,7 +5,7 @@ const nav = document.querySelector('.nav');
 
 // Get configuration (will be available after config.js loads)
 const getBrevoConfig = () => window.CONFIG?.brevo || {
-    apiKey: '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',
+    apiKey: 'xkeysib-...........',
     listId: 2,
     apiUrl: 'https://api.brevo.com/v3/contacts'
 };
